@@ -2,9 +2,9 @@
 # Implement code from this book chapter: http://r4ds.had.co.nz/many-models.html
 
 # Packages
-# install.packages('modelr')
-# install.packages('tidyverse')
-# install.packages('gapminder')
+install.packages('modelr')
+install.packages('tidyverse')
+install.packages('gapminder')
 library(gapminder)
 library(modelr)
 library(tidyverse)
